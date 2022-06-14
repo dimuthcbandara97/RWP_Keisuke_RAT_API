@@ -1,0 +1,13 @@
+<suite name="RWP_KEISUKE">
+
+	
+	<test name="KEISUKE_WEB_AUTOMATION">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TC_001_GET_request" />
+			<class name="TC_002_Post_Request" />
+		</classes>
+
+	</test>
+
+</suite>
